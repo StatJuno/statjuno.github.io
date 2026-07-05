@@ -4,4 +4,4 @@
 
 Temporary redirection page for ICML2026 poster QR.
 
-{{<script>var targetUrl = "research.html"; window.location.replace(targetUrl);</script><p>Redirecting to the Trans-Ising page. <a href="research.html">Click here if you are not redirected.</a></p>}}
+This page is maintained as a direct HTML redirect in `trans-ising.html`.
